@@ -24,9 +24,7 @@
     "mock-request": ">= 0.1.2",
     "nock": "*",
     "underscore": "1.2.x",
-    "qs": "0.4.x"
-  },
-  "devDependencies" : {
+    "qs": "0.4.x",
     "form-data": ">= 0.1.2"
   },
   "main": "./lib/frisby",
